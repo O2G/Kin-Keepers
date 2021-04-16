@@ -1,13 +1,12 @@
 #! /usr/bin/env bash
 ################################
 #
-#  Author: 	Abbas Abdulmalik
-#  Created:	March 30, 2016
-#  Modified:	April 16, 2021
+#  Author:    Abbas Abdulmalik
+#  Created:	  March 30, 2016
+#  Modified:  April 16, 2021
 #  Original:	push (name may have changed)
-#  Purpose:	A single command to commit and push
-#					local master git repo to remote origin (github)
-#  Note:		Requires a memo as arguments
+#  Purpose:   A single command to commit and push local master git repo to remote origin (github)
+#  Note:      Requires a memo as arguments
 #
 ################################````````
 if [ "${1}" = "" ];
