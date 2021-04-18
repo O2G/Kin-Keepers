@@ -13,7 +13,7 @@ The outcome – A Smart Parrot that listens and speaks to the elder, bringing fe
 
 # Architecture WorkFlow
 
-<img src="/https://github.com/O2G/Kin-Keepers/blob/main/ArchitectureAlzheimers.jpg">
+<img src="/github.com/O2G/Kin-Keepers/blob/main/ArchitectureAlzheimers.jpg">
 
 
 #  Demo Video 
