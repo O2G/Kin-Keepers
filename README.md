@@ -1,7 +1,7 @@
 # Kin-Keepers
 Alzheimer's voice interface to a family tree for elderly patients.
 
-Kin-Keepers - A voice translator for Alzheimer's sufferers. Kin-Keepers’ AI/ML technology translates wrong or forgotten words into intelligible communication for people suffering from dementia. A grandmother will use voice to query for the names of forgotten relatives. 
+Kin-Keepers - A voice translator for Alzheimer's sufferers. Kin-Keepers’ AI/ML technology translates wrong or forgotten words into intelligible communication for people suffering from Alzheimer and dementia. A grandmother will use voice to query for the names of forgotten relatives. 
 
 This project shows how to: 
 Use a node.js server as a backend to provide all the services among different stakeholders, e.g., seniors, families and carers. 
