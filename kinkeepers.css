@@ -219,3 +219,14 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 input[type = text] {  border: 1px solid black;  width: 350px;  margin: 4px; padding:4px}
 input[type = radio] {  border: 1px solid black;  width: 4;  margin: 4px; padding:4px;}
 input[type = submit] {  border: 1px solid white;  -webkit-box-shadow:0 0 4px #333333;  box-shadow:0 0 4px #333333;  width:120px;  padding:2px;  margin: 4px;}
+
+.archimage {
+  display: inline-block;
+  width: 99vw;
+  height: 70vh;
+  background-image: url("https://cdn.glitch.com/2f2856d2-f43d-44ac-96ab-3651ca73cabe%2FKK-Project-Architecture.jpg?v=1618769080860");
+  background-size: contain;
+  background-position: center; 
+  background-repeat: no-repeat;
+  left: 50%;
+}
