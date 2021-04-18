@@ -20,6 +20,6 @@ The outcome – A Smart Parrot that listens and speaks to the elder, bringing fe
 
 #  Demo Video 
 
-Product demo video is visible in the below column 
+**VIDEO:** [The new Aging Story](https://www.youtube.com/watch?v=XCZJfP7AEVI)
 
-https://www.youtube.com/watch?v=XCZJfP7AEVI
+
