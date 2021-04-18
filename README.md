@@ -11,4 +11,8 @@ Use an HTML5 based web dashboard for access to a Family Circle where relatives c
 
 The outcome – A Smart Parrot that listens and speaks to the elder, bringing feedback and certainty. The Smart Parrot not only aids the senior but becomes the eyes and ears for the family. Kin-Keepers’ proprietary technology offers reliable feedback for the 50 million suffering from dementia around the world; improving their lives and helping those affected live more harmoniously with families and carers
 
+#  Demo Video 
 
+Product demo video is visible in the below column 
+
+https://www.youtube.com/watch?v=XCZJfP7AEVI
